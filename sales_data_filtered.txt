@@ -1,0 +1,11 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
+T018|2024-12-29|P107|USB Cable|8|173|C009|South
+T059|2024-12-29|P102|Mouse Wireless|4|1056|C010|South
+T068|2024-12-02|P109|Wireless Mouse|6|1692|C018|South
+T005|2024-12-09|P110|Laptop Charger|1|3054|C026|South
+T010|2024-12-07|P110|Laptop Charger|2|1593|C022|South
+T031|2024-12-24|P102|Mouse|8|441|C025|South
+T021|2024-12-25|P102|Mouse|1|524|C005|South
+T001|2024-12-01|P102|Mouse|5|801|C008|South
+T065|2024-12-02|P105|Webcam|1|3366|C025|South
+T067|2024-12-01|P109|Wireless Mouse|2|654|C029|South

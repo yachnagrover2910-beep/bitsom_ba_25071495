@@ -1,0 +1,602 @@
+{
+  "1": {
+    "title": "Essence Mascara Lash Princess",
+    "category": "beauty",
+    "brand": "Essence",
+    "rating": 2.56
+  },
+  "2": {
+    "title": "Eyeshadow Palette with Mirror",
+    "category": "beauty",
+    "brand": "Glamour Beauty",
+    "rating": 2.86
+  },
+  "3": {
+    "title": "Powder Canister",
+    "category": "beauty",
+    "brand": "Velvet Touch",
+    "rating": 4.64
+  },
+  "4": {
+    "title": "Red Lipstick",
+    "category": "beauty",
+    "brand": "Chic Cosmetics",
+    "rating": 4.36
+  },
+  "5": {
+    "title": "Red Nail Polish",
+    "category": "beauty",
+    "brand": "Nail Couture",
+    "rating": 4.32
+  },
+  "6": {
+    "title": "Calvin Klein CK One",
+    "category": "fragrances",
+    "brand": "Calvin Klein",
+    "rating": 4.37
+  },
+  "7": {
+    "title": "Chanel Coco Noir Eau De",
+    "category": "fragrances",
+    "brand": "Chanel",
+    "rating": 4.26
+  },
+  "8": {
+    "title": "Dior J'adore",
+    "category": "fragrances",
+    "brand": "Dior",
+    "rating": 3.8
+  },
+  "9": {
+    "title": "Dolce Shine Eau de",
+    "category": "fragrances",
+    "brand": "Dolce & Gabbana",
+    "rating": 3.96
+  },
+  "10": {
+    "title": "Gucci Bloom Eau de",
+    "category": "fragrances",
+    "brand": "Gucci",
+    "rating": 2.74
+  },
+  "11": {
+    "title": "Annibale Colombo Bed",
+    "category": "furniture",
+    "brand": "Annibale Colombo",
+    "rating": 4.77
+  },
+  "12": {
+    "title": "Annibale Colombo Sofa",
+    "category": "furniture",
+    "brand": "Annibale Colombo",
+    "rating": 3.92
+  },
+  "13": {
+    "title": "Bedside Table African Cherry",
+    "category": "furniture",
+    "brand": "Furniture Co.",
+    "rating": 2.87
+  },
+  "14": {
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "category": "furniture",
+    "brand": "Knoll",
+    "rating": 4.88
+  },
+  "15": {
+    "title": "Wooden Bathroom Sink With Mirror",
+    "category": "furniture",
+    "brand": "Bath Trends",
+    "rating": 3.59
+  },
+  "16": {
+    "title": "Apple",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.19
+  },
+  "17": {
+    "title": "Beef Steak",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.47
+  },
+  "18": {
+    "title": "Cat Food",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.13
+  },
+  "19": {
+    "title": "Chicken Meat",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.19
+  },
+  "20": {
+    "title": "Cooking Oil",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.8
+  },
+  "21": {
+    "title": "Cucumber",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.07
+  },
+  "22": {
+    "title": "Dog Food",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.55
+  },
+  "23": {
+    "title": "Eggs",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 2.53
+  },
+  "24": {
+    "title": "Fish Steak",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.78
+  },
+  "25": {
+    "title": "Green Bell Pepper",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.25
+  },
+  "26": {
+    "title": "Green Chili Pepper",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.66
+  },
+  "27": {
+    "title": "Honey Jar",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.97
+  },
+  "28": {
+    "title": "Ice Cream",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.39
+  },
+  "29": {
+    "title": "Juice",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.94
+  },
+  "30": {
+    "title": "Kiwi",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.93
+  },
+  "31": {
+    "title": "Lemon",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.53
+  },
+  "32": {
+    "title": "Milk",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 2.61
+  },
+  "33": {
+    "title": "Mulberry",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.95
+  },
+  "34": {
+    "title": "Nescafe Coffee",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.82
+  },
+  "35": {
+    "title": "Potatoes",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.81
+  },
+  "36": {
+    "title": "Protein Powder",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.18
+  },
+  "37": {
+    "title": "Red Onions",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.2
+  },
+  "38": {
+    "title": "Rice",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.18
+  },
+  "39": {
+    "title": "Soft Drinks",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.75
+  },
+  "40": {
+    "title": "Strawberry",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 3.08
+  },
+  "41": {
+    "title": "Tissue Paper Box",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 2.69
+  },
+  "42": {
+    "title": "Water",
+    "category": "groceries",
+    "brand": "Unknown",
+    "rating": 4.96
+  },
+  "43": {
+    "title": "Decoration Swing",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "rating": 3.16
+  },
+  "44": {
+    "title": "Family Tree Photo Frame",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "rating": 4.53
+  },
+  "45": {
+    "title": "House Showpiece Plant",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "rating": 4.67
+  },
+  "46": {
+    "title": "Plant Pot",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "rating": 3.01
+  },
+  "47": {
+    "title": "Table Lamp",
+    "category": "home-decoration",
+    "brand": "Unknown",
+    "rating": 3.55
+  },
+  "48": {
+    "title": "Bamboo Spatula",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.27
+  },
+  "49": {
+    "title": "Black Aluminium Cup",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.46
+  },
+  "50": {
+    "title": "Black Whisk",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.9
+  },
+  "51": {
+    "title": "Boxed Blender",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.56
+  },
+  "52": {
+    "title": "Carbon Steel Wok",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.05
+  },
+  "53": {
+    "title": "Chopping Board",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.7
+  },
+  "54": {
+    "title": "Citrus Squeezer Yellow",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.63
+  },
+  "55": {
+    "title": "Egg Slicer",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.09
+  },
+  "56": {
+    "title": "Electric Stove",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.11
+  },
+  "57": {
+    "title": "Fine Mesh Strainer",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.04
+  },
+  "58": {
+    "title": "Fork",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.11
+  },
+  "59": {
+    "title": "Glass",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.02
+  },
+  "60": {
+    "title": "Grater Black",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.21
+  },
+  "61": {
+    "title": "Hand Blender",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.86
+  },
+  "62": {
+    "title": "Ice Cube Tray",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.71
+  },
+  "63": {
+    "title": "Kitchen Sieve",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.09
+  },
+  "64": {
+    "title": "Knife",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.26
+  },
+  "65": {
+    "title": "Lunch Box",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.93
+  },
+  "66": {
+    "title": "Microwave Oven",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.82
+  },
+  "67": {
+    "title": "Mug Tree Stand",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 2.64
+  },
+  "68": {
+    "title": "Pan",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 2.79
+  },
+  "69": {
+    "title": "Plate",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.65
+  },
+  "70": {
+    "title": "Red Tongs",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.42
+  },
+  "71": {
+    "title": "Silver Pot With Glass Cap",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.22
+  },
+  "72": {
+    "title": "Slotted Turner",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 3.4
+  },
+  "73": {
+    "title": "Spice Rack",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.87
+  },
+  "74": {
+    "title": "Spoon",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.03
+  },
+  "75": {
+    "title": "Tray",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.62
+  },
+  "76": {
+    "title": "Wooden Rolling Pin",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 2.92
+  },
+  "77": {
+    "title": "Yellow Peeler",
+    "category": "kitchen-accessories",
+    "brand": "Unknown",
+    "rating": 4.24
+  },
+  "78": {
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "category": "laptops",
+    "brand": "Apple",
+    "rating": 3.65
+  },
+  "79": {
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "category": "laptops",
+    "brand": "Asus",
+    "rating": 3.95
+  },
+  "80": {
+    "title": "Huawei Matebook X Pro",
+    "category": "laptops",
+    "brand": "Huawei",
+    "rating": 4.98
+  },
+  "81": {
+    "title": "Lenovo Yoga 920",
+    "category": "laptops",
+    "brand": "Lenovo",
+    "rating": 2.86
+  },
+  "82": {
+    "title": "New DELL XPS 13 9300 Laptop",
+    "category": "laptops",
+    "brand": "Dell",
+    "rating": 2.67
+  },
+  "83": {
+    "title": "Blue & Black Check Shirt",
+    "category": "mens-shirts",
+    "brand": "Fashion Trends",
+    "rating": 3.64
+  },
+  "84": {
+    "title": "Gigabyte Aorus Men Tshirt",
+    "category": "mens-shirts",
+    "brand": "Gigabyte",
+    "rating": 3.18
+  },
+  "85": {
+    "title": "Man Plaid Shirt",
+    "category": "mens-shirts",
+    "brand": "Classic Wear",
+    "rating": 3.46
+  },
+  "86": {
+    "title": "Man Short Sleeve Shirt",
+    "category": "mens-shirts",
+    "brand": "Casual Comfort",
+    "rating": 2.9
+  },
+  "87": {
+    "title": "Men Check Shirt",
+    "category": "mens-shirts",
+    "brand": "Urban Chic",
+    "rating": 2.72
+  },
+  "88": {
+    "title": "Nike Air Jordan 1 Red And Black",
+    "category": "mens-shoes",
+    "brand": "Nike",
+    "rating": 4.77
+  },
+  "89": {
+    "title": "Nike Baseball Cleats",
+    "category": "mens-shoes",
+    "brand": "Nike",
+    "rating": 3.88
+  },
+  "90": {
+    "title": "Puma Future Rider Trainers",
+    "category": "mens-shoes",
+    "brand": "Puma",
+    "rating": 4.9
+  },
+  "91": {
+    "title": "Sports Sneakers Off White & Red",
+    "category": "mens-shoes",
+    "brand": "Off White",
+    "rating": 4.77
+  },
+  "92": {
+    "title": "Sports Sneakers Off White Red",
+    "category": "mens-shoes",
+    "brand": "Off White",
+    "rating": 4.69
+  },
+  "93": {
+    "title": "Brown Leather Belt Watch",
+    "category": "mens-watches",
+    "brand": "Fashion Timepieces",
+    "rating": 4.19
+  },
+  "94": {
+    "title": "Longines Master Collection",
+    "category": "mens-watches",
+    "brand": "Longines",
+    "rating": 3.87
+  },
+  "95": {
+    "title": "Rolex Cellini Date Black Dial",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "rating": 4.97
+  },
+  "96": {
+    "title": "Rolex Cellini Moonphase",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "rating": 2.58
+  },
+  "97": {
+    "title": "Rolex Datejust",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "rating": 3.66
+  },
+  "98": {
+    "title": "Rolex Submariner Watch",
+    "category": "mens-watches",
+    "brand": "Rolex",
+    "rating": 2.69
+  },
+  "99": {
+    "title": "Amazon Echo Plus",
+    "category": "mobile-accessories",
+    "brand": "Amazon",
+    "rating": 4.99
+  },
+  "100": {
+    "title": "Apple Airpods",
+    "category": "mobile-accessories",
+    "brand": "Apple",
+    "rating": 4.15
+  }
+}
